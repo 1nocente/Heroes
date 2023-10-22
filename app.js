@@ -15,6 +15,10 @@ document.getElementById("heroes").addEventListener("click", function () {
     window.location.href = "https://1nocente.github.io/SUPER-RADAR/";
 });
 
+document.getElementById("villains").addEventListener("click", function () {
+    window.location.href = "https://1nocente.github.io/Villains/";
+});
+
 
 setTimeout(removeLoader, 3000);
 

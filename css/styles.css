@@ -302,8 +302,14 @@ div::-webkit-scrollbar {
 }
 
 .heroes{
-    height: 1vh;
-    width: 1vw;
+    height: .6vh;
+    width: .4vw;
+}
+
+.heroi{
+    width: 10vw;
+    height: 10vh;
+    margin-top: -15%;
 }
 
 .antheroi{
