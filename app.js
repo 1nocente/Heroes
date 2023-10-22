@@ -20,6 +20,7 @@ document.getElementById("villains").addEventListener("click", function () {
 });
 
 
+
 setTimeout(removeLoader, 3000);
 
 const apiKey = '836767454663626';
