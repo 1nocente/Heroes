@@ -19,6 +19,9 @@ document.getElementById("villains").addEventListener("click", function () {
     window.location.href = "https://1nocente.github.io/Villains/";
 });
 
+document.getElementById("antiheroes").addEventListener("click", function () {
+    window.location.href = "https://1nocente.github.io/AntiHeroes/";
+});
 
 
 setTimeout(removeLoader, 3000);
