@@ -91,7 +91,7 @@ h2{
 
 .pesquisa input{
     height: 5vh;
-    width: 50vw;
+    width:50vw;
 }
 .pesquisa img{
     height: 10vh;
@@ -299,6 +299,11 @@ div::-webkit-scrollbar {
 
 .hero-info{
     margin-left: 80px;
+}
+
+.heroes{
+    height: 1vh;
+    width: 1vw;
 }
 
 .antheroi{

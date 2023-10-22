@@ -11,6 +11,13 @@ function removeLoader() {
 
 setTimeout(removeLoader, 3000);
 
+document.getElementById("heroes").addEventListener("click", function () {
+    window.location.href = "https://1nocente.github.io/SUPER-RADAR/";
+});
+
+
+setTimeout(removeLoader, 3000);
+
 const apiKey = '836767454663626';
 const apiUrl = 'https://www.superheroapi.com/api.php/' + apiKey + '/';
 
